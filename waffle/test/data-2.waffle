@@ -1,0 +1,1 @@
+data id = cons succ 0 nil ;

@@ -1,0 +1,1 @@
+data id2 = cons succ pred 0 cons 0 cons succ succ succ 0 nil ;
